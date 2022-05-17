@@ -1,2 +1,2 @@
 # FindHypotenuse
-Find Hypotenuse calculator
+Find triangle Hypotenuse calculator
